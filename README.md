@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayan Kumar
 - 👀 I’m interested in programing language, UX Design
-- 🌱 I’m currently learning python prigraming
+- 🌱 I’m currently learning java programming 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
